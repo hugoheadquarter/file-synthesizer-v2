@@ -1,0 +1,7 @@
+streamlit
+pymupdf
+google.generativeai
+regex
+youtube-transcript-api
+ebooklib
+beautifulsoup4
